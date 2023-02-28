@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Willow Thompson (they/them)
-- 🗂️ I’m a student interested in data and databases
-- 🧑‍💻 I currently work with Java and Python primarily
-- 📝 I’m currently learning C and SQL
+- 🗂️ I’m a student interested in software development and data
+- 🧑‍💻 I currently work with Python and Java primarily, but I've dabbled in a few other languages
 - 📬 You can reach me at:
   - 📧 my email: willow.thompson@tcu.edu
   - 🟦 my LinkedIn: https://www.linkedin.com/in/willow-kate-thompson/
